@@ -9,7 +9,7 @@ bios版本：7C00V18（当前最新版）
 cpu: 9900es qqz5
 主板：微星z390m mortar
 内存：cuso ddr4 2666 16g*2 + juhor ddr4 2666 8g*2
-显卡：华硕dual rx580 o8g
+显卡：华硕dual rx580 o8g  (5000系列显卡请记得自己加启动项：agdpmod=pikera 否则跑码后会黑屏)
 硬盘：intel 660p 512g
 有线网卡：主板自带的有线intel i219v
 免驱无线卡：bcm94360cd
